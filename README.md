@@ -40,4 +40,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Links
 [Link to Remote Repository](https://github.com/mwahba624/Pyramids)
 
-[Link to Portfolio]()
+[Link to Portfolio](https://mwahba624.github.io/Pyramids/)
