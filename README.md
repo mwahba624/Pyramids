@@ -1,6 +1,6 @@
 # Portfolio
 
-## Descrition
+## Description
 * For this assignment I have HTML and CSS for a sample protifolio. This will be useful for future jobs to show our skills in Web Development. 
 
 ## Use Story
@@ -38,6 +38,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * I added some comments to both HTML and CSS. 
 
 ## Links
-[Link to Remote Repository]()
+[Link to Remote Repository](https://github.com/mwahba624/Pyramids)
 
 [Link to Portfolio]()
